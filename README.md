@@ -1,4 +1,4 @@
-# Samsung a03 core
+# Samsung A03 core
 send and read AT ATX commands to mobile device
 by Igor Azevedo :smiley: - Computational Engineer :rocket:
 
