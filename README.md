@@ -18,25 +18,26 @@ driver version: 2.19.1.0
 
 My application utilizes AT commands to communicate with a modem. Here's a brief overview of how it works and what you can do with it:
 
-AT: This command checks communication with the modem. It's the first step to ensuring that the application can communicate properly with the device.
+☎️ AT: This command checks communication with the modem. It's the first step to ensuring that the application can communicate properly with the device.
 
-ATZ: This command restores the modem's default settings. It's useful if you need to reset the device settings to their default values.
+☎️ ATZ: This command restores the modem's default settings. It's useful if you need to reset the device settings to their default values.
 
-ATI: Returns detailed information about the modem, including manufacturer, model, and firmware revision. This can be useful for identifying the type of modem being used.
+☎️ ATI: Returns detailed information about the modem, including manufacturer, model, and firmware revision. This can be useful for identifying the type of modem being used.
 
-AT+CGMI: Returns the modem manufacturer, providing a quick way to get basic information about the device.
+☎️ AT+CGMI: Returns the modem manufacturer, providing a quick way to get basic information about the device.
 
-AT+CGMM: Returns the specific model of the modem. This can be helpful for distinguishing between different versions from the same manufacturer.
+☎️ AT+CGMM: Returns the specific model of the modem. This can be helpful for distinguishing between different versions from the same manufacturer.
 
-AT+CGMR: Returns the modem firmware revision. This information is important to ensure you're using the latest version of the device's software.
+☎️ AT+CGMR: Returns the modem firmware revision. This information is important to ensure you're using the latest version of the device's software.
 
-AT+CSQ: Returns the signal quality. This is essential for checking signal strength and ensuring a reliable connection.
+☎️ AT+CSQ: Returns the signal quality. This is essential for checking signal strength and ensuring a reliable connection.
 
-ATD<number>: This command makes a call to the specified number. It allows the user to dial a phone number directly from the application.
+☎️ ATD<number>: This command makes a call to the specified number. It allows the user to dial a phone number directly from the application.
 
-ATH: This command hangs up the current call. It's useful for ending a call that's in progress.
+☎️ ATH: This command hangs up the current call. It's useful for ending a call that's in progress.
 
-AT+CMGS: This command sends a text message. It allows the user to send text messages directly from the application to other devices.
+☎️ AT+CMGS: This command sends a text message. It allows the user to send text messages directly from the application to other devices.
+
 These are some of the AT commands that my application uses to communicate with the modem. With these functionalities, users can perform a variety of tasks, from checking signal quality to making calls and sending text messages, all from a user-friendly interface.
 
 
