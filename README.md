@@ -53,3 +53,22 @@ Time interval: 60 Seconds
 
 ![clarosSignal2](https://github.com/DanDevel/Samsung-a03-core/assets/65668317/1820dd4d-1731-433c-9053-ff03c34114e3)
 
+
+
+# Start here:
+
+1 - Click on COM Port 3
+2 - Start using by sending AT commands, you can click on the command list or type on text box the command you want to send. Or monitoring the 3G 4G 5G signal.
+
+
+## Login screen
+
+![image](https://github.com/DanDevel/Samsung-a03-core/assets/65668317/3515cdc2-aaa5-4ab7-aaaf-b1fb3cb5b94c)
+
+
+
+
+
+
+
+
