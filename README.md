@@ -5,13 +5,13 @@ by Igor Azevedo :smiley: - Computational Engineer :rocket:
 
 ## Device Info: :warning:
 
-Galaxy A03 Core
+📱 Galaxy A03 Core 
 
-driver: SAMSUNG Mobile USB Modem
+💾 driver: SAMSUNG Mobile USB Modem 
 
-provider: SAMSUNG Electronics Co., Ltd
+📀 provider: SAMSUNG Electronics Co., Ltd
 
-driver version: 2.19.1.0
+💾 driver version: 2.19.1.0 
 
 
 ## AT commands to communicate with a modem 📱 
