@@ -68,6 +68,13 @@ Time interval: 60 Seconds
 
 
 
+## AT Commands & Live monitor
+
+Commands & live monitor screen 🖥️  
+
+![image](https://github.com/DanDevel/Samsung-a03-core/assets/65668317/d78fea4b-734d-40f6-a205-606b34bc8d3e)
+
+
 
 
 
