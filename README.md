@@ -13,7 +13,8 @@ provider: SAMSUNG Electronics Co., Ltd
 
 driver version: 2.19.1.0
 
-## AT commands to communicate with a modem
+
+## AT commands to communicate with a modem 📱 
 
 My application utilizes AT commands to communicate with a modem. Here's a brief overview of how it works and what you can do with it:
 
@@ -37,3 +38,17 @@ ATH: This command hangs up the current call. It's useful for ending a call that'
 
 AT+CMGS: This command sends a text message. It allows the user to send text messages directly from the application to other devices.
 These are some of the AT commands that my application uses to communicate with the modem. With these functionalities, users can perform a variety of tasks, from checking signal quality to making calls and sending text messages, all from a user-friendly interface.
+
+
+# Signal strength live monitor :fire:  
+
+## Check the 3G / 4G / 5G signal strength in live mode.
+
+Signal: Get the signal strength and plot the results on a chart component.
+
+Time interval: 60 Seconds
+
+## Example 🖥️  
+
+![clarosSignal2](https://github.com/DanDevel/Samsung-a03-core/assets/65668317/1820dd4d-1731-433c-9053-ff03c34114e3)
+
