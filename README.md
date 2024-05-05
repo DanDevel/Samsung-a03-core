@@ -58,6 +58,7 @@ Time interval: 60 Seconds
 # Start here:
 
 1 - Click on COM Port 3
+
 2 - Start using by sending AT commands, you can click on the command list or type on text box the command you want to send. Or monitoring the 3G 4G 5G signal.
 
 
